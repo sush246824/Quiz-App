@@ -1,1 +1,1 @@
-It's a simple Quiz where you are given 5 options for a given question. On selecting Next you can navigate to the next question.If the answer selected is right then its shown in Green color otherwise Red color. At the end your score is displayed and you can play again.
+It's a simple Quiz where you are given 5 options for a given question. On selecting Next you can navigate to the next question.If the answer selected is right then its shown in Green color otherwise Red color. At the end your score is displayed and you have the option to play the game again.
